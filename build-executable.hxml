@@ -1,0 +1,2 @@
+build-neko.hxml
+--cmd nekotools boot dist/neko/build.n
