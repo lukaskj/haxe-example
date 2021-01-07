@@ -1,3 +1,3 @@
 main.hxml
 
--js dist/dist.js
+-js dist/build.js
