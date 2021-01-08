@@ -1,6 +1,6 @@
 class Main {
 	static function main():Void {
-		trace('Simple test. OS:' + Sys.systemName());
+      trace('Simple test. OS:' + Sys.systemName());
 		var test:Array<Int> = [1, 2, 3, 4];
 		trace(test);
 		#if (target.threaded)
